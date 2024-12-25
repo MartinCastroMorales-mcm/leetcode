@@ -1,0 +1,14 @@
+/home/martin/code/leetcode/BinarySearch/704BinarySearch/obj/Debug/net8.0/704BinarySearch.GeneratedMSBuildEditorConfig.editorconfig
+/home/martin/code/leetcode/BinarySearch/704BinarySearch/obj/Debug/net8.0/704BinarySearch.AssemblyInfoInputs.cache
+/home/martin/code/leetcode/BinarySearch/704BinarySearch/obj/Debug/net8.0/704BinarySearch.AssemblyInfo.cs
+/home/martin/code/leetcode/BinarySearch/704BinarySearch/obj/Debug/net8.0/704BinarySearch.csproj.CoreCompileInputs.cache
+/home/martin/code/leetcode/BinarySearch/704BinarySearch/bin/Debug/net8.0/704BinarySearch
+/home/martin/code/leetcode/BinarySearch/704BinarySearch/bin/Debug/net8.0/704BinarySearch.deps.json
+/home/martin/code/leetcode/BinarySearch/704BinarySearch/bin/Debug/net8.0/704BinarySearch.runtimeconfig.json
+/home/martin/code/leetcode/BinarySearch/704BinarySearch/bin/Debug/net8.0/704BinarySearch.dll
+/home/martin/code/leetcode/BinarySearch/704BinarySearch/bin/Debug/net8.0/704BinarySearch.pdb
+/home/martin/code/leetcode/BinarySearch/704BinarySearch/obj/Debug/net8.0/704BinarySearch.dll
+/home/martin/code/leetcode/BinarySearch/704BinarySearch/obj/Debug/net8.0/refint/704BinarySearch.dll
+/home/martin/code/leetcode/BinarySearch/704BinarySearch/obj/Debug/net8.0/704BinarySearch.pdb
+/home/martin/code/leetcode/BinarySearch/704BinarySearch/obj/Debug/net8.0/704BinarySearch.genruntimeconfig.cache
+/home/martin/code/leetcode/BinarySearch/704BinarySearch/obj/Debug/net8.0/ref/704BinarySearch.dll

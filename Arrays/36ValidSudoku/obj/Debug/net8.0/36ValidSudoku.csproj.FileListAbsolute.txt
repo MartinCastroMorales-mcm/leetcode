@@ -1,0 +1,14 @@
+/home/martin/code/leetcode/Arrays/36ValidSudoku/bin/Debug/net8.0/36ValidSudoku
+/home/martin/code/leetcode/Arrays/36ValidSudoku/bin/Debug/net8.0/36ValidSudoku.deps.json
+/home/martin/code/leetcode/Arrays/36ValidSudoku/bin/Debug/net8.0/36ValidSudoku.runtimeconfig.json
+/home/martin/code/leetcode/Arrays/36ValidSudoku/bin/Debug/net8.0/36ValidSudoku.dll
+/home/martin/code/leetcode/Arrays/36ValidSudoku/bin/Debug/net8.0/36ValidSudoku.pdb
+/home/martin/code/leetcode/Arrays/36ValidSudoku/obj/Debug/net8.0/36ValidSudoku.GeneratedMSBuildEditorConfig.editorconfig
+/home/martin/code/leetcode/Arrays/36ValidSudoku/obj/Debug/net8.0/36ValidSudoku.AssemblyInfoInputs.cache
+/home/martin/code/leetcode/Arrays/36ValidSudoku/obj/Debug/net8.0/36ValidSudoku.AssemblyInfo.cs
+/home/martin/code/leetcode/Arrays/36ValidSudoku/obj/Debug/net8.0/36ValidSudoku.csproj.CoreCompileInputs.cache
+/home/martin/code/leetcode/Arrays/36ValidSudoku/obj/Debug/net8.0/36ValidSudoku.dll
+/home/martin/code/leetcode/Arrays/36ValidSudoku/obj/Debug/net8.0/refint/36ValidSudoku.dll
+/home/martin/code/leetcode/Arrays/36ValidSudoku/obj/Debug/net8.0/36ValidSudoku.pdb
+/home/martin/code/leetcode/Arrays/36ValidSudoku/obj/Debug/net8.0/36ValidSudoku.genruntimeconfig.cache
+/home/martin/code/leetcode/Arrays/36ValidSudoku/obj/Debug/net8.0/ref/36ValidSudoku.dll

@@ -1,0 +1,4 @@
+/home/martin/code/leetcode/BinarySearch/981TimeBasedKeyValueStore/obj/Debug/net8.0/981TimeBasedKeyValueStore.GeneratedMSBuildEditorConfig.editorconfig
+/home/martin/code/leetcode/BinarySearch/981TimeBasedKeyValueStore/obj/Debug/net8.0/981TimeBasedKeyValueStore.AssemblyInfoInputs.cache
+/home/martin/code/leetcode/BinarySearch/981TimeBasedKeyValueStore/obj/Debug/net8.0/981TimeBasedKeyValueStore.AssemblyInfo.cs
+/home/martin/code/leetcode/BinarySearch/981TimeBasedKeyValueStore/obj/Debug/net8.0/981TimeBasedKeyValueStore.csproj.CoreCompileInputs.cache

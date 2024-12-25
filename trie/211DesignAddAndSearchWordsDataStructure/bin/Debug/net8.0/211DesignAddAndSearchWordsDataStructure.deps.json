@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "211DesignAddAndSearchWordsDataStructure/1.0.0": {
+        "runtime": {
+          "211DesignAddAndSearchWordsDataStructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "211DesignAddAndSearchWordsDataStructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "70ClimingStairs/1.0.0": {
+        "runtime": {
+          "70ClimingStairs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "70ClimingStairs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

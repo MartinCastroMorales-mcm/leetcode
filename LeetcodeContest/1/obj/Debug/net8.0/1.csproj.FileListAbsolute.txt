@@ -1,0 +1,14 @@
+/home/martin/code/leetcode/LeetcodeContest/1/bin/Debug/net8.0/1
+/home/martin/code/leetcode/LeetcodeContest/1/bin/Debug/net8.0/1.deps.json
+/home/martin/code/leetcode/LeetcodeContest/1/bin/Debug/net8.0/1.runtimeconfig.json
+/home/martin/code/leetcode/LeetcodeContest/1/bin/Debug/net8.0/1.dll
+/home/martin/code/leetcode/LeetcodeContest/1/bin/Debug/net8.0/1.pdb
+/home/martin/code/leetcode/LeetcodeContest/1/obj/Debug/net8.0/1.GeneratedMSBuildEditorConfig.editorconfig
+/home/martin/code/leetcode/LeetcodeContest/1/obj/Debug/net8.0/1.AssemblyInfoInputs.cache
+/home/martin/code/leetcode/LeetcodeContest/1/obj/Debug/net8.0/1.AssemblyInfo.cs
+/home/martin/code/leetcode/LeetcodeContest/1/obj/Debug/net8.0/1.csproj.CoreCompileInputs.cache
+/home/martin/code/leetcode/LeetcodeContest/1/obj/Debug/net8.0/1.dll
+/home/martin/code/leetcode/LeetcodeContest/1/obj/Debug/net8.0/refint/1.dll
+/home/martin/code/leetcode/LeetcodeContest/1/obj/Debug/net8.0/1.pdb
+/home/martin/code/leetcode/LeetcodeContest/1/obj/Debug/net8.0/1.genruntimeconfig.cache
+/home/martin/code/leetcode/LeetcodeContest/1/obj/Debug/net8.0/ref/1.dll

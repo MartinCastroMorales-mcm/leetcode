@@ -1,0 +1,14 @@
+/home/martin/code/leetcode/Arrays/EncodeDecode/obj/Debug/net8.0/EncodeDecode.GeneratedMSBuildEditorConfig.editorconfig
+/home/martin/code/leetcode/Arrays/EncodeDecode/obj/Debug/net8.0/EncodeDecode.AssemblyInfoInputs.cache
+/home/martin/code/leetcode/Arrays/EncodeDecode/obj/Debug/net8.0/EncodeDecode.AssemblyInfo.cs
+/home/martin/code/leetcode/Arrays/EncodeDecode/obj/Debug/net8.0/EncodeDecode.csproj.CoreCompileInputs.cache
+/home/martin/code/leetcode/Arrays/EncodeDecode/bin/Debug/net8.0/EncodeDecode
+/home/martin/code/leetcode/Arrays/EncodeDecode/bin/Debug/net8.0/EncodeDecode.deps.json
+/home/martin/code/leetcode/Arrays/EncodeDecode/bin/Debug/net8.0/EncodeDecode.runtimeconfig.json
+/home/martin/code/leetcode/Arrays/EncodeDecode/bin/Debug/net8.0/EncodeDecode.dll
+/home/martin/code/leetcode/Arrays/EncodeDecode/bin/Debug/net8.0/EncodeDecode.pdb
+/home/martin/code/leetcode/Arrays/EncodeDecode/obj/Debug/net8.0/EncodeDecode.dll
+/home/martin/code/leetcode/Arrays/EncodeDecode/obj/Debug/net8.0/refint/EncodeDecode.dll
+/home/martin/code/leetcode/Arrays/EncodeDecode/obj/Debug/net8.0/EncodeDecode.pdb
+/home/martin/code/leetcode/Arrays/EncodeDecode/obj/Debug/net8.0/EncodeDecode.genruntimeconfig.cache
+/home/martin/code/leetcode/Arrays/EncodeDecode/obj/Debug/net8.0/ref/EncodeDecode.dll

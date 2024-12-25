@@ -1,0 +1,14 @@
+/home/martin/code/leetcode/slidingWindow/121BestTimeToBuy/bin/Debug/net8.0/121BestTimeToBuy
+/home/martin/code/leetcode/slidingWindow/121BestTimeToBuy/bin/Debug/net8.0/121BestTimeToBuy.deps.json
+/home/martin/code/leetcode/slidingWindow/121BestTimeToBuy/bin/Debug/net8.0/121BestTimeToBuy.runtimeconfig.json
+/home/martin/code/leetcode/slidingWindow/121BestTimeToBuy/bin/Debug/net8.0/121BestTimeToBuy.dll
+/home/martin/code/leetcode/slidingWindow/121BestTimeToBuy/bin/Debug/net8.0/121BestTimeToBuy.pdb
+/home/martin/code/leetcode/slidingWindow/121BestTimeToBuy/obj/Debug/net8.0/121BestTimeToBuy.GeneratedMSBuildEditorConfig.editorconfig
+/home/martin/code/leetcode/slidingWindow/121BestTimeToBuy/obj/Debug/net8.0/121BestTimeToBuy.AssemblyInfoInputs.cache
+/home/martin/code/leetcode/slidingWindow/121BestTimeToBuy/obj/Debug/net8.0/121BestTimeToBuy.AssemblyInfo.cs
+/home/martin/code/leetcode/slidingWindow/121BestTimeToBuy/obj/Debug/net8.0/121BestTimeToBuy.csproj.CoreCompileInputs.cache
+/home/martin/code/leetcode/slidingWindow/121BestTimeToBuy/obj/Debug/net8.0/121BestTimeToBuy.dll
+/home/martin/code/leetcode/slidingWindow/121BestTimeToBuy/obj/Debug/net8.0/refint/121BestTimeToBuy.dll
+/home/martin/code/leetcode/slidingWindow/121BestTimeToBuy/obj/Debug/net8.0/121BestTimeToBuy.pdb
+/home/martin/code/leetcode/slidingWindow/121BestTimeToBuy/obj/Debug/net8.0/121BestTimeToBuy.genruntimeconfig.cache
+/home/martin/code/leetcode/slidingWindow/121BestTimeToBuy/obj/Debug/net8.0/ref/121BestTimeToBuy.dll

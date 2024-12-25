@@ -1,0 +1,14 @@
+/home/martin/code/leetcode/LinkedList/143ReorderList/obj/Debug/net8.0/143ReorderList.GeneratedMSBuildEditorConfig.editorconfig
+/home/martin/code/leetcode/LinkedList/143ReorderList/obj/Debug/net8.0/143ReorderList.AssemblyInfoInputs.cache
+/home/martin/code/leetcode/LinkedList/143ReorderList/obj/Debug/net8.0/143ReorderList.AssemblyInfo.cs
+/home/martin/code/leetcode/LinkedList/143ReorderList/obj/Debug/net8.0/143ReorderList.csproj.CoreCompileInputs.cache
+/home/martin/code/leetcode/LinkedList/143ReorderList/bin/Debug/net8.0/143ReorderList
+/home/martin/code/leetcode/LinkedList/143ReorderList/bin/Debug/net8.0/143ReorderList.deps.json
+/home/martin/code/leetcode/LinkedList/143ReorderList/bin/Debug/net8.0/143ReorderList.runtimeconfig.json
+/home/martin/code/leetcode/LinkedList/143ReorderList/bin/Debug/net8.0/143ReorderList.dll
+/home/martin/code/leetcode/LinkedList/143ReorderList/bin/Debug/net8.0/143ReorderList.pdb
+/home/martin/code/leetcode/LinkedList/143ReorderList/obj/Debug/net8.0/143ReorderList.dll
+/home/martin/code/leetcode/LinkedList/143ReorderList/obj/Debug/net8.0/refint/143ReorderList.dll
+/home/martin/code/leetcode/LinkedList/143ReorderList/obj/Debug/net8.0/143ReorderList.pdb
+/home/martin/code/leetcode/LinkedList/143ReorderList/obj/Debug/net8.0/143ReorderList.genruntimeconfig.cache
+/home/martin/code/leetcode/LinkedList/143ReorderList/obj/Debug/net8.0/ref/143ReorderList.dll

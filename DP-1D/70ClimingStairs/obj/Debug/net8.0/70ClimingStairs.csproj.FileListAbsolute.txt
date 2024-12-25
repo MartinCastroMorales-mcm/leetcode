@@ -1,0 +1,14 @@
+/home/martin/code/leetcode/DP-1D/70ClimingStairs/bin/Debug/net8.0/70ClimingStairs
+/home/martin/code/leetcode/DP-1D/70ClimingStairs/bin/Debug/net8.0/70ClimingStairs.deps.json
+/home/martin/code/leetcode/DP-1D/70ClimingStairs/bin/Debug/net8.0/70ClimingStairs.runtimeconfig.json
+/home/martin/code/leetcode/DP-1D/70ClimingStairs/bin/Debug/net8.0/70ClimingStairs.dll
+/home/martin/code/leetcode/DP-1D/70ClimingStairs/bin/Debug/net8.0/70ClimingStairs.pdb
+/home/martin/code/leetcode/DP-1D/70ClimingStairs/obj/Debug/net8.0/70ClimingStairs.GeneratedMSBuildEditorConfig.editorconfig
+/home/martin/code/leetcode/DP-1D/70ClimingStairs/obj/Debug/net8.0/70ClimingStairs.AssemblyInfoInputs.cache
+/home/martin/code/leetcode/DP-1D/70ClimingStairs/obj/Debug/net8.0/70ClimingStairs.AssemblyInfo.cs
+/home/martin/code/leetcode/DP-1D/70ClimingStairs/obj/Debug/net8.0/70ClimingStairs.csproj.CoreCompileInputs.cache
+/home/martin/code/leetcode/DP-1D/70ClimingStairs/obj/Debug/net8.0/70ClimingStairs.dll
+/home/martin/code/leetcode/DP-1D/70ClimingStairs/obj/Debug/net8.0/refint/70ClimingStairs.dll
+/home/martin/code/leetcode/DP-1D/70ClimingStairs/obj/Debug/net8.0/70ClimingStairs.pdb
+/home/martin/code/leetcode/DP-1D/70ClimingStairs/obj/Debug/net8.0/70ClimingStairs.genruntimeconfig.cache
+/home/martin/code/leetcode/DP-1D/70ClimingStairs/obj/Debug/net8.0/ref/70ClimingStairs.dll

@@ -1,0 +1,14 @@
+/home/martin/code/leetcode/BinarySearch/875KokoEatingBananas/obj/Debug/net8.0/875KokoEatingBananas.GeneratedMSBuildEditorConfig.editorconfig
+/home/martin/code/leetcode/BinarySearch/875KokoEatingBananas/obj/Debug/net8.0/875KokoEatingBananas.AssemblyInfoInputs.cache
+/home/martin/code/leetcode/BinarySearch/875KokoEatingBananas/obj/Debug/net8.0/875KokoEatingBananas.AssemblyInfo.cs
+/home/martin/code/leetcode/BinarySearch/875KokoEatingBananas/obj/Debug/net8.0/875KokoEatingBananas.csproj.CoreCompileInputs.cache
+/home/martin/code/leetcode/BinarySearch/875KokoEatingBananas/bin/Debug/net8.0/875KokoEatingBananas
+/home/martin/code/leetcode/BinarySearch/875KokoEatingBananas/bin/Debug/net8.0/875KokoEatingBananas.deps.json
+/home/martin/code/leetcode/BinarySearch/875KokoEatingBananas/bin/Debug/net8.0/875KokoEatingBananas.runtimeconfig.json
+/home/martin/code/leetcode/BinarySearch/875KokoEatingBananas/bin/Debug/net8.0/875KokoEatingBananas.dll
+/home/martin/code/leetcode/BinarySearch/875KokoEatingBananas/bin/Debug/net8.0/875KokoEatingBananas.pdb
+/home/martin/code/leetcode/BinarySearch/875KokoEatingBananas/obj/Debug/net8.0/875KokoEatingBananas.dll
+/home/martin/code/leetcode/BinarySearch/875KokoEatingBananas/obj/Debug/net8.0/refint/875KokoEatingBananas.dll
+/home/martin/code/leetcode/BinarySearch/875KokoEatingBananas/obj/Debug/net8.0/875KokoEatingBananas.pdb
+/home/martin/code/leetcode/BinarySearch/875KokoEatingBananas/obj/Debug/net8.0/875KokoEatingBananas.genruntimeconfig.cache
+/home/martin/code/leetcode/BinarySearch/875KokoEatingBananas/obj/Debug/net8.0/ref/875KokoEatingBananas.dll

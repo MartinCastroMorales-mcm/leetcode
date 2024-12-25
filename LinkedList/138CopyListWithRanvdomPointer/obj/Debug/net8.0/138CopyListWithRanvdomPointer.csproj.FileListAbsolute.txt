@@ -1,0 +1,14 @@
+/home/martin/code/leetcode/LinkedList/138CopyListWithRanvdomPointer/bin/Debug/net8.0/138CopyListWithRanvdomPointer
+/home/martin/code/leetcode/LinkedList/138CopyListWithRanvdomPointer/bin/Debug/net8.0/138CopyListWithRanvdomPointer.deps.json
+/home/martin/code/leetcode/LinkedList/138CopyListWithRanvdomPointer/bin/Debug/net8.0/138CopyListWithRanvdomPointer.runtimeconfig.json
+/home/martin/code/leetcode/LinkedList/138CopyListWithRanvdomPointer/bin/Debug/net8.0/138CopyListWithRanvdomPointer.dll
+/home/martin/code/leetcode/LinkedList/138CopyListWithRanvdomPointer/bin/Debug/net8.0/138CopyListWithRanvdomPointer.pdb
+/home/martin/code/leetcode/LinkedList/138CopyListWithRanvdomPointer/obj/Debug/net8.0/138CopyListWithRanvdomPointer.GeneratedMSBuildEditorConfig.editorconfig
+/home/martin/code/leetcode/LinkedList/138CopyListWithRanvdomPointer/obj/Debug/net8.0/138CopyListWithRanvdomPointer.AssemblyInfoInputs.cache
+/home/martin/code/leetcode/LinkedList/138CopyListWithRanvdomPointer/obj/Debug/net8.0/138CopyListWithRanvdomPointer.AssemblyInfo.cs
+/home/martin/code/leetcode/LinkedList/138CopyListWithRanvdomPointer/obj/Debug/net8.0/138CopyListWithRanvdomPointer.csproj.CoreCompileInputs.cache
+/home/martin/code/leetcode/LinkedList/138CopyListWithRanvdomPointer/obj/Debug/net8.0/138CopyListWithRanvdomPointer.dll
+/home/martin/code/leetcode/LinkedList/138CopyListWithRanvdomPointer/obj/Debug/net8.0/refint/138CopyListWithRanvdomPointer.dll
+/home/martin/code/leetcode/LinkedList/138CopyListWithRanvdomPointer/obj/Debug/net8.0/138CopyListWithRanvdomPointer.pdb
+/home/martin/code/leetcode/LinkedList/138CopyListWithRanvdomPointer/obj/Debug/net8.0/138CopyListWithRanvdomPointer.genruntimeconfig.cache
+/home/martin/code/leetcode/LinkedList/138CopyListWithRanvdomPointer/obj/Debug/net8.0/ref/138CopyListWithRanvdomPointer.dll

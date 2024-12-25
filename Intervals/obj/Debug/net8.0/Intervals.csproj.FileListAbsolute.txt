@@ -1,0 +1,14 @@
+/home/martin/code/leetcode/Intervals/bin/Debug/net8.0/Intervals
+/home/martin/code/leetcode/Intervals/bin/Debug/net8.0/Intervals.deps.json
+/home/martin/code/leetcode/Intervals/bin/Debug/net8.0/Intervals.runtimeconfig.json
+/home/martin/code/leetcode/Intervals/bin/Debug/net8.0/Intervals.dll
+/home/martin/code/leetcode/Intervals/bin/Debug/net8.0/Intervals.pdb
+/home/martin/code/leetcode/Intervals/obj/Debug/net8.0/Intervals.GeneratedMSBuildEditorConfig.editorconfig
+/home/martin/code/leetcode/Intervals/obj/Debug/net8.0/Intervals.AssemblyInfoInputs.cache
+/home/martin/code/leetcode/Intervals/obj/Debug/net8.0/Intervals.AssemblyInfo.cs
+/home/martin/code/leetcode/Intervals/obj/Debug/net8.0/Intervals.csproj.CoreCompileInputs.cache
+/home/martin/code/leetcode/Intervals/obj/Debug/net8.0/Intervals.dll
+/home/martin/code/leetcode/Intervals/obj/Debug/net8.0/refint/Intervals.dll
+/home/martin/code/leetcode/Intervals/obj/Debug/net8.0/Intervals.pdb
+/home/martin/code/leetcode/Intervals/obj/Debug/net8.0/Intervals.genruntimeconfig.cache
+/home/martin/code/leetcode/Intervals/obj/Debug/net8.0/ref/Intervals.dll

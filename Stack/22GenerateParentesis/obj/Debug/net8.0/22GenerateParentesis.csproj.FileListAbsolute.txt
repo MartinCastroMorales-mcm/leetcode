@@ -1,0 +1,14 @@
+/home/martin/code/leetcode/Stack/22GenerateParentesis/obj/Debug/net8.0/22GenerateParentesis.GeneratedMSBuildEditorConfig.editorconfig
+/home/martin/code/leetcode/Stack/22GenerateParentesis/obj/Debug/net8.0/22GenerateParentesis.AssemblyInfoInputs.cache
+/home/martin/code/leetcode/Stack/22GenerateParentesis/obj/Debug/net8.0/22GenerateParentesis.AssemblyInfo.cs
+/home/martin/code/leetcode/Stack/22GenerateParentesis/obj/Debug/net8.0/22GenerateParentesis.csproj.CoreCompileInputs.cache
+/home/martin/code/leetcode/Stack/22GenerateParentesis/bin/Debug/net8.0/22GenerateParentesis
+/home/martin/code/leetcode/Stack/22GenerateParentesis/bin/Debug/net8.0/22GenerateParentesis.deps.json
+/home/martin/code/leetcode/Stack/22GenerateParentesis/bin/Debug/net8.0/22GenerateParentesis.runtimeconfig.json
+/home/martin/code/leetcode/Stack/22GenerateParentesis/bin/Debug/net8.0/22GenerateParentesis.dll
+/home/martin/code/leetcode/Stack/22GenerateParentesis/bin/Debug/net8.0/22GenerateParentesis.pdb
+/home/martin/code/leetcode/Stack/22GenerateParentesis/obj/Debug/net8.0/22GenerateParentesis.dll
+/home/martin/code/leetcode/Stack/22GenerateParentesis/obj/Debug/net8.0/refint/22GenerateParentesis.dll
+/home/martin/code/leetcode/Stack/22GenerateParentesis/obj/Debug/net8.0/22GenerateParentesis.pdb
+/home/martin/code/leetcode/Stack/22GenerateParentesis/obj/Debug/net8.0/22GenerateParentesis.genruntimeconfig.cache
+/home/martin/code/leetcode/Stack/22GenerateParentesis/obj/Debug/net8.0/ref/22GenerateParentesis.dll

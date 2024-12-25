@@ -1,0 +1,14 @@
+/home/martin/code/leetcode/trie/211DesignAddAndSearchWordsDataStructure/obj/Debug/net8.0/211DesignAddAndSearchWordsDataStructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/martin/code/leetcode/trie/211DesignAddAndSearchWordsDataStructure/obj/Debug/net8.0/211DesignAddAndSearchWordsDataStructure.AssemblyInfoInputs.cache
+/home/martin/code/leetcode/trie/211DesignAddAndSearchWordsDataStructure/obj/Debug/net8.0/211DesignAddAndSearchWordsDataStructure.AssemblyInfo.cs
+/home/martin/code/leetcode/trie/211DesignAddAndSearchWordsDataStructure/obj/Debug/net8.0/211DesignAddAndSearchWordsDataStructure.csproj.CoreCompileInputs.cache
+/home/martin/code/leetcode/trie/211DesignAddAndSearchWordsDataStructure/bin/Debug/net8.0/211DesignAddAndSearchWordsDataStructure
+/home/martin/code/leetcode/trie/211DesignAddAndSearchWordsDataStructure/bin/Debug/net8.0/211DesignAddAndSearchWordsDataStructure.deps.json
+/home/martin/code/leetcode/trie/211DesignAddAndSearchWordsDataStructure/bin/Debug/net8.0/211DesignAddAndSearchWordsDataStructure.runtimeconfig.json
+/home/martin/code/leetcode/trie/211DesignAddAndSearchWordsDataStructure/bin/Debug/net8.0/211DesignAddAndSearchWordsDataStructure.dll
+/home/martin/code/leetcode/trie/211DesignAddAndSearchWordsDataStructure/bin/Debug/net8.0/211DesignAddAndSearchWordsDataStructure.pdb
+/home/martin/code/leetcode/trie/211DesignAddAndSearchWordsDataStructure/obj/Debug/net8.0/211DesignAddAndSearchWordsDataStructure.dll
+/home/martin/code/leetcode/trie/211DesignAddAndSearchWordsDataStructure/obj/Debug/net8.0/refint/211DesignAddAndSearchWordsDataStructure.dll
+/home/martin/code/leetcode/trie/211DesignAddAndSearchWordsDataStructure/obj/Debug/net8.0/211DesignAddAndSearchWordsDataStructure.pdb
+/home/martin/code/leetcode/trie/211DesignAddAndSearchWordsDataStructure/obj/Debug/net8.0/211DesignAddAndSearchWordsDataStructure.genruntimeconfig.cache
+/home/martin/code/leetcode/trie/211DesignAddAndSearchWordsDataStructure/obj/Debug/net8.0/ref/211DesignAddAndSearchWordsDataStructure.dll

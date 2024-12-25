@@ -1,0 +1,14 @@
+/home/martin/code/leetcode/backtracking/90Subsets_II/bin/Debug/net8.0/90Subsets_II
+/home/martin/code/leetcode/backtracking/90Subsets_II/bin/Debug/net8.0/90Subsets_II.deps.json
+/home/martin/code/leetcode/backtracking/90Subsets_II/bin/Debug/net8.0/90Subsets_II.runtimeconfig.json
+/home/martin/code/leetcode/backtracking/90Subsets_II/bin/Debug/net8.0/90Subsets_II.dll
+/home/martin/code/leetcode/backtracking/90Subsets_II/bin/Debug/net8.0/90Subsets_II.pdb
+/home/martin/code/leetcode/backtracking/90Subsets_II/obj/Debug/net8.0/90Subsets_II.GeneratedMSBuildEditorConfig.editorconfig
+/home/martin/code/leetcode/backtracking/90Subsets_II/obj/Debug/net8.0/90Subsets_II.AssemblyInfoInputs.cache
+/home/martin/code/leetcode/backtracking/90Subsets_II/obj/Debug/net8.0/90Subsets_II.AssemblyInfo.cs
+/home/martin/code/leetcode/backtracking/90Subsets_II/obj/Debug/net8.0/90Subsets_II.csproj.CoreCompileInputs.cache
+/home/martin/code/leetcode/backtracking/90Subsets_II/obj/Debug/net8.0/90Subsets_II.dll
+/home/martin/code/leetcode/backtracking/90Subsets_II/obj/Debug/net8.0/refint/90Subsets_II.dll
+/home/martin/code/leetcode/backtracking/90Subsets_II/obj/Debug/net8.0/90Subsets_II.pdb
+/home/martin/code/leetcode/backtracking/90Subsets_II/obj/Debug/net8.0/90Subsets_II.genruntimeconfig.cache
+/home/martin/code/leetcode/backtracking/90Subsets_II/obj/Debug/net8.0/ref/90Subsets_II.dll

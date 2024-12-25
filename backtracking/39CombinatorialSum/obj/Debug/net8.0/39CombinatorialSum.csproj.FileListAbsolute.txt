@@ -1,0 +1,14 @@
+/home/martin/code/leetcode/backtracking/39CombinatorialSum/obj/Debug/net8.0/39CombinatorialSum.GeneratedMSBuildEditorConfig.editorconfig
+/home/martin/code/leetcode/backtracking/39CombinatorialSum/obj/Debug/net8.0/39CombinatorialSum.AssemblyInfoInputs.cache
+/home/martin/code/leetcode/backtracking/39CombinatorialSum/obj/Debug/net8.0/39CombinatorialSum.AssemblyInfo.cs
+/home/martin/code/leetcode/backtracking/39CombinatorialSum/obj/Debug/net8.0/39CombinatorialSum.csproj.CoreCompileInputs.cache
+/home/martin/code/leetcode/backtracking/39CombinatorialSum/bin/Debug/net8.0/39CombinatorialSum
+/home/martin/code/leetcode/backtracking/39CombinatorialSum/bin/Debug/net8.0/39CombinatorialSum.deps.json
+/home/martin/code/leetcode/backtracking/39CombinatorialSum/bin/Debug/net8.0/39CombinatorialSum.runtimeconfig.json
+/home/martin/code/leetcode/backtracking/39CombinatorialSum/bin/Debug/net8.0/39CombinatorialSum.dll
+/home/martin/code/leetcode/backtracking/39CombinatorialSum/bin/Debug/net8.0/39CombinatorialSum.pdb
+/home/martin/code/leetcode/backtracking/39CombinatorialSum/obj/Debug/net8.0/39CombinatorialSum.dll
+/home/martin/code/leetcode/backtracking/39CombinatorialSum/obj/Debug/net8.0/refint/39CombinatorialSum.dll
+/home/martin/code/leetcode/backtracking/39CombinatorialSum/obj/Debug/net8.0/39CombinatorialSum.pdb
+/home/martin/code/leetcode/backtracking/39CombinatorialSum/obj/Debug/net8.0/39CombinatorialSum.genruntimeconfig.cache
+/home/martin/code/leetcode/backtracking/39CombinatorialSum/obj/Debug/net8.0/ref/39CombinatorialSum.dll

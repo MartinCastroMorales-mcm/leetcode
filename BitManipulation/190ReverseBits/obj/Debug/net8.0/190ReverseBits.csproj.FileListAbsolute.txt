@@ -1,0 +1,14 @@
+/home/martin/code/leetcode/BitManipulation/190ReverseBits/obj/Debug/net8.0/190ReverseBits.GeneratedMSBuildEditorConfig.editorconfig
+/home/martin/code/leetcode/BitManipulation/190ReverseBits/obj/Debug/net8.0/190ReverseBits.AssemblyInfoInputs.cache
+/home/martin/code/leetcode/BitManipulation/190ReverseBits/obj/Debug/net8.0/190ReverseBits.AssemblyInfo.cs
+/home/martin/code/leetcode/BitManipulation/190ReverseBits/obj/Debug/net8.0/190ReverseBits.csproj.CoreCompileInputs.cache
+/home/martin/code/leetcode/BitManipulation/190ReverseBits/bin/Debug/net8.0/190ReverseBits
+/home/martin/code/leetcode/BitManipulation/190ReverseBits/bin/Debug/net8.0/190ReverseBits.deps.json
+/home/martin/code/leetcode/BitManipulation/190ReverseBits/bin/Debug/net8.0/190ReverseBits.runtimeconfig.json
+/home/martin/code/leetcode/BitManipulation/190ReverseBits/bin/Debug/net8.0/190ReverseBits.dll
+/home/martin/code/leetcode/BitManipulation/190ReverseBits/bin/Debug/net8.0/190ReverseBits.pdb
+/home/martin/code/leetcode/BitManipulation/190ReverseBits/obj/Debug/net8.0/190ReverseBits.dll
+/home/martin/code/leetcode/BitManipulation/190ReverseBits/obj/Debug/net8.0/refint/190ReverseBits.dll
+/home/martin/code/leetcode/BitManipulation/190ReverseBits/obj/Debug/net8.0/190ReverseBits.pdb
+/home/martin/code/leetcode/BitManipulation/190ReverseBits/obj/Debug/net8.0/190ReverseBits.genruntimeconfig.cache
+/home/martin/code/leetcode/BitManipulation/190ReverseBits/obj/Debug/net8.0/ref/190ReverseBits.dll

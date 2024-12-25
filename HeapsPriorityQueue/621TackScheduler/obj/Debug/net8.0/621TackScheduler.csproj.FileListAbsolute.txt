@@ -1,0 +1,14 @@
+/home/martin/code/leetcode/HeapsPriorityQueue/621TackScheduler/obj/Debug/net8.0/621TackScheduler.GeneratedMSBuildEditorConfig.editorconfig
+/home/martin/code/leetcode/HeapsPriorityQueue/621TackScheduler/obj/Debug/net8.0/621TackScheduler.AssemblyInfoInputs.cache
+/home/martin/code/leetcode/HeapsPriorityQueue/621TackScheduler/obj/Debug/net8.0/621TackScheduler.AssemblyInfo.cs
+/home/martin/code/leetcode/HeapsPriorityQueue/621TackScheduler/obj/Debug/net8.0/621TackScheduler.csproj.CoreCompileInputs.cache
+/home/martin/code/leetcode/HeapsPriorityQueue/621TackScheduler/bin/Debug/net8.0/621TackScheduler
+/home/martin/code/leetcode/HeapsPriorityQueue/621TackScheduler/bin/Debug/net8.0/621TackScheduler.deps.json
+/home/martin/code/leetcode/HeapsPriorityQueue/621TackScheduler/bin/Debug/net8.0/621TackScheduler.runtimeconfig.json
+/home/martin/code/leetcode/HeapsPriorityQueue/621TackScheduler/bin/Debug/net8.0/621TackScheduler.dll
+/home/martin/code/leetcode/HeapsPriorityQueue/621TackScheduler/bin/Debug/net8.0/621TackScheduler.pdb
+/home/martin/code/leetcode/HeapsPriorityQueue/621TackScheduler/obj/Debug/net8.0/621TackScheduler.dll
+/home/martin/code/leetcode/HeapsPriorityQueue/621TackScheduler/obj/Debug/net8.0/refint/621TackScheduler.dll
+/home/martin/code/leetcode/HeapsPriorityQueue/621TackScheduler/obj/Debug/net8.0/621TackScheduler.pdb
+/home/martin/code/leetcode/HeapsPriorityQueue/621TackScheduler/obj/Debug/net8.0/621TackScheduler.genruntimeconfig.cache
+/home/martin/code/leetcode/HeapsPriorityQueue/621TackScheduler/obj/Debug/net8.0/ref/621TackScheduler.dll

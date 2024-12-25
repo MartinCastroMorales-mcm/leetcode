@@ -1,0 +1,14 @@
+/home/martin/code/leetcode/Arrays/347TopKFrequetElements/obj/Debug/net8.0/347TopKFrequetElements.GeneratedMSBuildEditorConfig.editorconfig
+/home/martin/code/leetcode/Arrays/347TopKFrequetElements/obj/Debug/net8.0/347TopKFrequetElements.AssemblyInfoInputs.cache
+/home/martin/code/leetcode/Arrays/347TopKFrequetElements/obj/Debug/net8.0/347TopKFrequetElements.AssemblyInfo.cs
+/home/martin/code/leetcode/Arrays/347TopKFrequetElements/obj/Debug/net8.0/347TopKFrequetElements.csproj.CoreCompileInputs.cache
+/home/martin/code/leetcode/Arrays/347TopKFrequetElements/bin/Debug/net8.0/347TopKFrequetElements
+/home/martin/code/leetcode/Arrays/347TopKFrequetElements/bin/Debug/net8.0/347TopKFrequetElements.deps.json
+/home/martin/code/leetcode/Arrays/347TopKFrequetElements/bin/Debug/net8.0/347TopKFrequetElements.runtimeconfig.json
+/home/martin/code/leetcode/Arrays/347TopKFrequetElements/bin/Debug/net8.0/347TopKFrequetElements.dll
+/home/martin/code/leetcode/Arrays/347TopKFrequetElements/bin/Debug/net8.0/347TopKFrequetElements.pdb
+/home/martin/code/leetcode/Arrays/347TopKFrequetElements/obj/Debug/net8.0/347TopKFrequetElements.dll
+/home/martin/code/leetcode/Arrays/347TopKFrequetElements/obj/Debug/net8.0/refint/347TopKFrequetElements.dll
+/home/martin/code/leetcode/Arrays/347TopKFrequetElements/obj/Debug/net8.0/347TopKFrequetElements.pdb
+/home/martin/code/leetcode/Arrays/347TopKFrequetElements/obj/Debug/net8.0/347TopKFrequetElements.genruntimeconfig.cache
+/home/martin/code/leetcode/Arrays/347TopKFrequetElements/obj/Debug/net8.0/ref/347TopKFrequetElements.dll

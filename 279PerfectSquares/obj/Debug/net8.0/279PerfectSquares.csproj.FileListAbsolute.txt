@@ -1,0 +1,14 @@
+/home/martin/code/leetcode/279PerfectSquares/obj/Debug/net8.0/279PerfectSquares.GeneratedMSBuildEditorConfig.editorconfig
+/home/martin/code/leetcode/279PerfectSquares/obj/Debug/net8.0/279PerfectSquares.AssemblyInfoInputs.cache
+/home/martin/code/leetcode/279PerfectSquares/obj/Debug/net8.0/279PerfectSquares.AssemblyInfo.cs
+/home/martin/code/leetcode/279PerfectSquares/obj/Debug/net8.0/279PerfectSquares.csproj.CoreCompileInputs.cache
+/home/martin/code/leetcode/279PerfectSquares/bin/Debug/net8.0/279PerfectSquares
+/home/martin/code/leetcode/279PerfectSquares/bin/Debug/net8.0/279PerfectSquares.deps.json
+/home/martin/code/leetcode/279PerfectSquares/bin/Debug/net8.0/279PerfectSquares.runtimeconfig.json
+/home/martin/code/leetcode/279PerfectSquares/bin/Debug/net8.0/279PerfectSquares.dll
+/home/martin/code/leetcode/279PerfectSquares/bin/Debug/net8.0/279PerfectSquares.pdb
+/home/martin/code/leetcode/279PerfectSquares/obj/Debug/net8.0/279PerfectSquares.dll
+/home/martin/code/leetcode/279PerfectSquares/obj/Debug/net8.0/refint/279PerfectSquares.dll
+/home/martin/code/leetcode/279PerfectSquares/obj/Debug/net8.0/279PerfectSquares.pdb
+/home/martin/code/leetcode/279PerfectSquares/obj/Debug/net8.0/279PerfectSquares.genruntimeconfig.cache
+/home/martin/code/leetcode/279PerfectSquares/obj/Debug/net8.0/ref/279PerfectSquares.dll

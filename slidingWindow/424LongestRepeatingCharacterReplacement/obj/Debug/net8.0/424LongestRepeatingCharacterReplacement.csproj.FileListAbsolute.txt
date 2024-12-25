@@ -1,0 +1,14 @@
+/home/martin/code/leetcode/slidingWindow/424LongestRepeatingCharacterReplacement/obj/Debug/net8.0/424LongestRepeatingCharacterReplacement.GeneratedMSBuildEditorConfig.editorconfig
+/home/martin/code/leetcode/slidingWindow/424LongestRepeatingCharacterReplacement/obj/Debug/net8.0/424LongestRepeatingCharacterReplacement.AssemblyInfoInputs.cache
+/home/martin/code/leetcode/slidingWindow/424LongestRepeatingCharacterReplacement/obj/Debug/net8.0/424LongestRepeatingCharacterReplacement.AssemblyInfo.cs
+/home/martin/code/leetcode/slidingWindow/424LongestRepeatingCharacterReplacement/obj/Debug/net8.0/424LongestRepeatingCharacterReplacement.csproj.CoreCompileInputs.cache
+/home/martin/code/leetcode/slidingWindow/424LongestRepeatingCharacterReplacement/bin/Debug/net8.0/424LongestRepeatingCharacterReplacement
+/home/martin/code/leetcode/slidingWindow/424LongestRepeatingCharacterReplacement/bin/Debug/net8.0/424LongestRepeatingCharacterReplacement.deps.json
+/home/martin/code/leetcode/slidingWindow/424LongestRepeatingCharacterReplacement/bin/Debug/net8.0/424LongestRepeatingCharacterReplacement.runtimeconfig.json
+/home/martin/code/leetcode/slidingWindow/424LongestRepeatingCharacterReplacement/bin/Debug/net8.0/424LongestRepeatingCharacterReplacement.dll
+/home/martin/code/leetcode/slidingWindow/424LongestRepeatingCharacterReplacement/bin/Debug/net8.0/424LongestRepeatingCharacterReplacement.pdb
+/home/martin/code/leetcode/slidingWindow/424LongestRepeatingCharacterReplacement/obj/Debug/net8.0/424LongestRepeatingCharacterReplacement.dll
+/home/martin/code/leetcode/slidingWindow/424LongestRepeatingCharacterReplacement/obj/Debug/net8.0/refint/424LongestRepeatingCharacterReplacement.dll
+/home/martin/code/leetcode/slidingWindow/424LongestRepeatingCharacterReplacement/obj/Debug/net8.0/424LongestRepeatingCharacterReplacement.pdb
+/home/martin/code/leetcode/slidingWindow/424LongestRepeatingCharacterReplacement/obj/Debug/net8.0/424LongestRepeatingCharacterReplacement.genruntimeconfig.cache
+/home/martin/code/leetcode/slidingWindow/424LongestRepeatingCharacterReplacement/obj/Debug/net8.0/ref/424LongestRepeatingCharacterReplacement.dll

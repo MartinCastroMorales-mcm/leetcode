@@ -1,0 +1,14 @@
+/home/martin/code/leetcode/Trees/230KthSmallestElemtInBST/obj/Debug/net8.0/230KthSmallestElemtInBST.GeneratedMSBuildEditorConfig.editorconfig
+/home/martin/code/leetcode/Trees/230KthSmallestElemtInBST/obj/Debug/net8.0/230KthSmallestElemtInBST.AssemblyInfoInputs.cache
+/home/martin/code/leetcode/Trees/230KthSmallestElemtInBST/obj/Debug/net8.0/230KthSmallestElemtInBST.AssemblyInfo.cs
+/home/martin/code/leetcode/Trees/230KthSmallestElemtInBST/obj/Debug/net8.0/230KthSmallestElemtInBST.csproj.CoreCompileInputs.cache
+/home/martin/code/leetcode/Trees/230KthSmallestElemtInBST/bin/Debug/net8.0/230KthSmallestElemtInBST
+/home/martin/code/leetcode/Trees/230KthSmallestElemtInBST/bin/Debug/net8.0/230KthSmallestElemtInBST.deps.json
+/home/martin/code/leetcode/Trees/230KthSmallestElemtInBST/bin/Debug/net8.0/230KthSmallestElemtInBST.runtimeconfig.json
+/home/martin/code/leetcode/Trees/230KthSmallestElemtInBST/bin/Debug/net8.0/230KthSmallestElemtInBST.dll
+/home/martin/code/leetcode/Trees/230KthSmallestElemtInBST/bin/Debug/net8.0/230KthSmallestElemtInBST.pdb
+/home/martin/code/leetcode/Trees/230KthSmallestElemtInBST/obj/Debug/net8.0/230KthSmallestElemtInBST.dll
+/home/martin/code/leetcode/Trees/230KthSmallestElemtInBST/obj/Debug/net8.0/refint/230KthSmallestElemtInBST.dll
+/home/martin/code/leetcode/Trees/230KthSmallestElemtInBST/obj/Debug/net8.0/230KthSmallestElemtInBST.pdb
+/home/martin/code/leetcode/Trees/230KthSmallestElemtInBST/obj/Debug/net8.0/230KthSmallestElemtInBST.genruntimeconfig.cache
+/home/martin/code/leetcode/Trees/230KthSmallestElemtInBST/obj/Debug/net8.0/ref/230KthSmallestElemtInBST.dll

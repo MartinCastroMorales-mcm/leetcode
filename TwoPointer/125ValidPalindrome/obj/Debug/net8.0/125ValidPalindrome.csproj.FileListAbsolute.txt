@@ -1,0 +1,14 @@
+/home/martin/code/leetcode/TwoPointer/125ValidPalindrome/bin/Debug/net8.0/125ValidPalindrome
+/home/martin/code/leetcode/TwoPointer/125ValidPalindrome/bin/Debug/net8.0/125ValidPalindrome.deps.json
+/home/martin/code/leetcode/TwoPointer/125ValidPalindrome/bin/Debug/net8.0/125ValidPalindrome.runtimeconfig.json
+/home/martin/code/leetcode/TwoPointer/125ValidPalindrome/bin/Debug/net8.0/125ValidPalindrome.dll
+/home/martin/code/leetcode/TwoPointer/125ValidPalindrome/bin/Debug/net8.0/125ValidPalindrome.pdb
+/home/martin/code/leetcode/TwoPointer/125ValidPalindrome/obj/Debug/net8.0/125ValidPalindrome.GeneratedMSBuildEditorConfig.editorconfig
+/home/martin/code/leetcode/TwoPointer/125ValidPalindrome/obj/Debug/net8.0/125ValidPalindrome.AssemblyInfoInputs.cache
+/home/martin/code/leetcode/TwoPointer/125ValidPalindrome/obj/Debug/net8.0/125ValidPalindrome.AssemblyInfo.cs
+/home/martin/code/leetcode/TwoPointer/125ValidPalindrome/obj/Debug/net8.0/125ValidPalindrome.csproj.CoreCompileInputs.cache
+/home/martin/code/leetcode/TwoPointer/125ValidPalindrome/obj/Debug/net8.0/125ValidPalindrome.dll
+/home/martin/code/leetcode/TwoPointer/125ValidPalindrome/obj/Debug/net8.0/refint/125ValidPalindrome.dll
+/home/martin/code/leetcode/TwoPointer/125ValidPalindrome/obj/Debug/net8.0/125ValidPalindrome.pdb
+/home/martin/code/leetcode/TwoPointer/125ValidPalindrome/obj/Debug/net8.0/125ValidPalindrome.genruntimeconfig.cache
+/home/martin/code/leetcode/TwoPointer/125ValidPalindrome/obj/Debug/net8.0/ref/125ValidPalindrome.dll

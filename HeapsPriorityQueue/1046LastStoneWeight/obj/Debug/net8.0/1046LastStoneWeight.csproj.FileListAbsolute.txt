@@ -1,0 +1,14 @@
+/home/martin/code/leetcode/HeapsPriorityQueue/1046LastStoneWeight/obj/Debug/net8.0/1046LastStoneWeight.GeneratedMSBuildEditorConfig.editorconfig
+/home/martin/code/leetcode/HeapsPriorityQueue/1046LastStoneWeight/obj/Debug/net8.0/1046LastStoneWeight.AssemblyInfoInputs.cache
+/home/martin/code/leetcode/HeapsPriorityQueue/1046LastStoneWeight/obj/Debug/net8.0/1046LastStoneWeight.AssemblyInfo.cs
+/home/martin/code/leetcode/HeapsPriorityQueue/1046LastStoneWeight/obj/Debug/net8.0/1046LastStoneWeight.csproj.CoreCompileInputs.cache
+/home/martin/code/leetcode/HeapsPriorityQueue/1046LastStoneWeight/bin/Debug/net8.0/1046LastStoneWeight
+/home/martin/code/leetcode/HeapsPriorityQueue/1046LastStoneWeight/bin/Debug/net8.0/1046LastStoneWeight.deps.json
+/home/martin/code/leetcode/HeapsPriorityQueue/1046LastStoneWeight/bin/Debug/net8.0/1046LastStoneWeight.runtimeconfig.json
+/home/martin/code/leetcode/HeapsPriorityQueue/1046LastStoneWeight/bin/Debug/net8.0/1046LastStoneWeight.dll
+/home/martin/code/leetcode/HeapsPriorityQueue/1046LastStoneWeight/bin/Debug/net8.0/1046LastStoneWeight.pdb
+/home/martin/code/leetcode/HeapsPriorityQueue/1046LastStoneWeight/obj/Debug/net8.0/1046LastStoneWeight.dll
+/home/martin/code/leetcode/HeapsPriorityQueue/1046LastStoneWeight/obj/Debug/net8.0/refint/1046LastStoneWeight.dll
+/home/martin/code/leetcode/HeapsPriorityQueue/1046LastStoneWeight/obj/Debug/net8.0/1046LastStoneWeight.pdb
+/home/martin/code/leetcode/HeapsPriorityQueue/1046LastStoneWeight/obj/Debug/net8.0/1046LastStoneWeight.genruntimeconfig.cache
+/home/martin/code/leetcode/HeapsPriorityQueue/1046LastStoneWeight/obj/Debug/net8.0/ref/1046LastStoneWeight.dll

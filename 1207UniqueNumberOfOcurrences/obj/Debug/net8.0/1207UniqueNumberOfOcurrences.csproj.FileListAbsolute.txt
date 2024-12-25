@@ -1,0 +1,14 @@
+/home/martin/code/leetcode/1207UniqueNumberOfOcurrences/obj/Debug/net8.0/1207UniqueNumberOfOcurrences.GeneratedMSBuildEditorConfig.editorconfig
+/home/martin/code/leetcode/1207UniqueNumberOfOcurrences/obj/Debug/net8.0/1207UniqueNumberOfOcurrences.AssemblyInfoInputs.cache
+/home/martin/code/leetcode/1207UniqueNumberOfOcurrences/obj/Debug/net8.0/1207UniqueNumberOfOcurrences.AssemblyInfo.cs
+/home/martin/code/leetcode/1207UniqueNumberOfOcurrences/obj/Debug/net8.0/1207UniqueNumberOfOcurrences.csproj.CoreCompileInputs.cache
+/home/martin/code/leetcode/1207UniqueNumberOfOcurrences/bin/Debug/net8.0/1207UniqueNumberOfOcurrences
+/home/martin/code/leetcode/1207UniqueNumberOfOcurrences/bin/Debug/net8.0/1207UniqueNumberOfOcurrences.deps.json
+/home/martin/code/leetcode/1207UniqueNumberOfOcurrences/bin/Debug/net8.0/1207UniqueNumberOfOcurrences.runtimeconfig.json
+/home/martin/code/leetcode/1207UniqueNumberOfOcurrences/bin/Debug/net8.0/1207UniqueNumberOfOcurrences.dll
+/home/martin/code/leetcode/1207UniqueNumberOfOcurrences/bin/Debug/net8.0/1207UniqueNumberOfOcurrences.pdb
+/home/martin/code/leetcode/1207UniqueNumberOfOcurrences/obj/Debug/net8.0/1207UniqueNumberOfOcurrences.dll
+/home/martin/code/leetcode/1207UniqueNumberOfOcurrences/obj/Debug/net8.0/refint/1207UniqueNumberOfOcurrences.dll
+/home/martin/code/leetcode/1207UniqueNumberOfOcurrences/obj/Debug/net8.0/1207UniqueNumberOfOcurrences.pdb
+/home/martin/code/leetcode/1207UniqueNumberOfOcurrences/obj/Debug/net8.0/1207UniqueNumberOfOcurrences.genruntimeconfig.cache
+/home/martin/code/leetcode/1207UniqueNumberOfOcurrences/obj/Debug/net8.0/ref/1207UniqueNumberOfOcurrences.dll

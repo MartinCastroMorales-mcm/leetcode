@@ -1,0 +1,14 @@
+/home/martin/code/leetcode/Arrays/49GroupAnagrams/obj/Debug/net8.0/49GroupAnagrams.GeneratedMSBuildEditorConfig.editorconfig
+/home/martin/code/leetcode/Arrays/49GroupAnagrams/obj/Debug/net8.0/49GroupAnagrams.AssemblyInfoInputs.cache
+/home/martin/code/leetcode/Arrays/49GroupAnagrams/obj/Debug/net8.0/49GroupAnagrams.AssemblyInfo.cs
+/home/martin/code/leetcode/Arrays/49GroupAnagrams/obj/Debug/net8.0/49GroupAnagrams.csproj.CoreCompileInputs.cache
+/home/martin/code/leetcode/Arrays/49GroupAnagrams/bin/Debug/net8.0/49GroupAnagrams
+/home/martin/code/leetcode/Arrays/49GroupAnagrams/bin/Debug/net8.0/49GroupAnagrams.deps.json
+/home/martin/code/leetcode/Arrays/49GroupAnagrams/bin/Debug/net8.0/49GroupAnagrams.runtimeconfig.json
+/home/martin/code/leetcode/Arrays/49GroupAnagrams/bin/Debug/net8.0/49GroupAnagrams.dll
+/home/martin/code/leetcode/Arrays/49GroupAnagrams/bin/Debug/net8.0/49GroupAnagrams.pdb
+/home/martin/code/leetcode/Arrays/49GroupAnagrams/obj/Debug/net8.0/49GroupAnagrams.dll
+/home/martin/code/leetcode/Arrays/49GroupAnagrams/obj/Debug/net8.0/refint/49GroupAnagrams.dll
+/home/martin/code/leetcode/Arrays/49GroupAnagrams/obj/Debug/net8.0/49GroupAnagrams.pdb
+/home/martin/code/leetcode/Arrays/49GroupAnagrams/obj/Debug/net8.0/49GroupAnagrams.genruntimeconfig.cache
+/home/martin/code/leetcode/Arrays/49GroupAnagrams/obj/Debug/net8.0/ref/49GroupAnagrams.dll

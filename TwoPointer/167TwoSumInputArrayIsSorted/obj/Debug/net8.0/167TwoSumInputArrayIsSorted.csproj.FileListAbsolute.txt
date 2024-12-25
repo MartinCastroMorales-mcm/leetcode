@@ -1,0 +1,14 @@
+/home/martin/code/leetcode/TwoPointer/167TwoSumInputArrayIsSorted/obj/Debug/net8.0/167TwoSumInputArrayIsSorted.GeneratedMSBuildEditorConfig.editorconfig
+/home/martin/code/leetcode/TwoPointer/167TwoSumInputArrayIsSorted/obj/Debug/net8.0/167TwoSumInputArrayIsSorted.AssemblyInfoInputs.cache
+/home/martin/code/leetcode/TwoPointer/167TwoSumInputArrayIsSorted/obj/Debug/net8.0/167TwoSumInputArrayIsSorted.AssemblyInfo.cs
+/home/martin/code/leetcode/TwoPointer/167TwoSumInputArrayIsSorted/obj/Debug/net8.0/167TwoSumInputArrayIsSorted.csproj.CoreCompileInputs.cache
+/home/martin/code/leetcode/TwoPointer/167TwoSumInputArrayIsSorted/bin/Debug/net8.0/167TwoSumInputArrayIsSorted
+/home/martin/code/leetcode/TwoPointer/167TwoSumInputArrayIsSorted/bin/Debug/net8.0/167TwoSumInputArrayIsSorted.deps.json
+/home/martin/code/leetcode/TwoPointer/167TwoSumInputArrayIsSorted/bin/Debug/net8.0/167TwoSumInputArrayIsSorted.runtimeconfig.json
+/home/martin/code/leetcode/TwoPointer/167TwoSumInputArrayIsSorted/bin/Debug/net8.0/167TwoSumInputArrayIsSorted.dll
+/home/martin/code/leetcode/TwoPointer/167TwoSumInputArrayIsSorted/bin/Debug/net8.0/167TwoSumInputArrayIsSorted.pdb
+/home/martin/code/leetcode/TwoPointer/167TwoSumInputArrayIsSorted/obj/Debug/net8.0/167TwoSumInputArrayIsSorted.dll
+/home/martin/code/leetcode/TwoPointer/167TwoSumInputArrayIsSorted/obj/Debug/net8.0/refint/167TwoSumInputArrayIsSorted.dll
+/home/martin/code/leetcode/TwoPointer/167TwoSumInputArrayIsSorted/obj/Debug/net8.0/167TwoSumInputArrayIsSorted.pdb
+/home/martin/code/leetcode/TwoPointer/167TwoSumInputArrayIsSorted/obj/Debug/net8.0/167TwoSumInputArrayIsSorted.genruntimeconfig.cache
+/home/martin/code/leetcode/TwoPointer/167TwoSumInputArrayIsSorted/obj/Debug/net8.0/ref/167TwoSumInputArrayIsSorted.dll

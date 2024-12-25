@@ -1,0 +1,14 @@
+/home/martin/code/leetcode/Arrays/ContainsDuplicate/bin/Debug/net8.0/ContainsDuplicate
+/home/martin/code/leetcode/Arrays/ContainsDuplicate/bin/Debug/net8.0/ContainsDuplicate.deps.json
+/home/martin/code/leetcode/Arrays/ContainsDuplicate/bin/Debug/net8.0/ContainsDuplicate.runtimeconfig.json
+/home/martin/code/leetcode/Arrays/ContainsDuplicate/bin/Debug/net8.0/ContainsDuplicate.dll
+/home/martin/code/leetcode/Arrays/ContainsDuplicate/bin/Debug/net8.0/ContainsDuplicate.pdb
+/home/martin/code/leetcode/Arrays/ContainsDuplicate/obj/Debug/net8.0/ContainsDuplicate.GeneratedMSBuildEditorConfig.editorconfig
+/home/martin/code/leetcode/Arrays/ContainsDuplicate/obj/Debug/net8.0/ContainsDuplicate.AssemblyInfoInputs.cache
+/home/martin/code/leetcode/Arrays/ContainsDuplicate/obj/Debug/net8.0/ContainsDuplicate.AssemblyInfo.cs
+/home/martin/code/leetcode/Arrays/ContainsDuplicate/obj/Debug/net8.0/ContainsDuplicate.csproj.CoreCompileInputs.cache
+/home/martin/code/leetcode/Arrays/ContainsDuplicate/obj/Debug/net8.0/ContainsDuplicate.dll
+/home/martin/code/leetcode/Arrays/ContainsDuplicate/obj/Debug/net8.0/refint/ContainsDuplicate.dll
+/home/martin/code/leetcode/Arrays/ContainsDuplicate/obj/Debug/net8.0/ContainsDuplicate.pdb
+/home/martin/code/leetcode/Arrays/ContainsDuplicate/obj/Debug/net8.0/ContainsDuplicate.genruntimeconfig.cache
+/home/martin/code/leetcode/Arrays/ContainsDuplicate/obj/Debug/net8.0/ref/ContainsDuplicate.dll

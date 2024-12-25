@@ -1,0 +1,14 @@
+/home/martin/code/leetcode/Stack/150EvaluateReversePolishNotation/obj/Debug/net8.0/150EvaluateReversePolishNotation.GeneratedMSBuildEditorConfig.editorconfig
+/home/martin/code/leetcode/Stack/150EvaluateReversePolishNotation/obj/Debug/net8.0/150EvaluateReversePolishNotation.AssemblyInfoInputs.cache
+/home/martin/code/leetcode/Stack/150EvaluateReversePolishNotation/obj/Debug/net8.0/150EvaluateReversePolishNotation.AssemblyInfo.cs
+/home/martin/code/leetcode/Stack/150EvaluateReversePolishNotation/obj/Debug/net8.0/150EvaluateReversePolishNotation.csproj.CoreCompileInputs.cache
+/home/martin/code/leetcode/Stack/150EvaluateReversePolishNotation/bin/Debug/net8.0/150EvaluateReversePolishNotation
+/home/martin/code/leetcode/Stack/150EvaluateReversePolishNotation/bin/Debug/net8.0/150EvaluateReversePolishNotation.deps.json
+/home/martin/code/leetcode/Stack/150EvaluateReversePolishNotation/bin/Debug/net8.0/150EvaluateReversePolishNotation.runtimeconfig.json
+/home/martin/code/leetcode/Stack/150EvaluateReversePolishNotation/bin/Debug/net8.0/150EvaluateReversePolishNotation.dll
+/home/martin/code/leetcode/Stack/150EvaluateReversePolishNotation/bin/Debug/net8.0/150EvaluateReversePolishNotation.pdb
+/home/martin/code/leetcode/Stack/150EvaluateReversePolishNotation/obj/Debug/net8.0/150EvaluateReversePolishNotation.dll
+/home/martin/code/leetcode/Stack/150EvaluateReversePolishNotation/obj/Debug/net8.0/refint/150EvaluateReversePolishNotation.dll
+/home/martin/code/leetcode/Stack/150EvaluateReversePolishNotation/obj/Debug/net8.0/150EvaluateReversePolishNotation.pdb
+/home/martin/code/leetcode/Stack/150EvaluateReversePolishNotation/obj/Debug/net8.0/150EvaluateReversePolishNotation.genruntimeconfig.cache
+/home/martin/code/leetcode/Stack/150EvaluateReversePolishNotation/obj/Debug/net8.0/ref/150EvaluateReversePolishNotation.dll

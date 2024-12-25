@@ -1,0 +1,14 @@
+/home/martin/code/leetcode/Arrays/242ValidAnagram/obj/Debug/net8.0/242ValidAnagram.GeneratedMSBuildEditorConfig.editorconfig
+/home/martin/code/leetcode/Arrays/242ValidAnagram/obj/Debug/net8.0/242ValidAnagram.AssemblyInfoInputs.cache
+/home/martin/code/leetcode/Arrays/242ValidAnagram/obj/Debug/net8.0/242ValidAnagram.AssemblyInfo.cs
+/home/martin/code/leetcode/Arrays/242ValidAnagram/obj/Debug/net8.0/242ValidAnagram.csproj.CoreCompileInputs.cache
+/home/martin/code/leetcode/Arrays/242ValidAnagram/bin/Debug/net8.0/242ValidAnagram
+/home/martin/code/leetcode/Arrays/242ValidAnagram/bin/Debug/net8.0/242ValidAnagram.deps.json
+/home/martin/code/leetcode/Arrays/242ValidAnagram/bin/Debug/net8.0/242ValidAnagram.runtimeconfig.json
+/home/martin/code/leetcode/Arrays/242ValidAnagram/bin/Debug/net8.0/242ValidAnagram.dll
+/home/martin/code/leetcode/Arrays/242ValidAnagram/bin/Debug/net8.0/242ValidAnagram.pdb
+/home/martin/code/leetcode/Arrays/242ValidAnagram/obj/Debug/net8.0/242ValidAnagram.dll
+/home/martin/code/leetcode/Arrays/242ValidAnagram/obj/Debug/net8.0/refint/242ValidAnagram.dll
+/home/martin/code/leetcode/Arrays/242ValidAnagram/obj/Debug/net8.0/242ValidAnagram.pdb
+/home/martin/code/leetcode/Arrays/242ValidAnagram/obj/Debug/net8.0/242ValidAnagram.genruntimeconfig.cache
+/home/martin/code/leetcode/Arrays/242ValidAnagram/obj/Debug/net8.0/ref/242ValidAnagram.dll

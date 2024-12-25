@@ -1,0 +1,14 @@
+/home/martin/code/leetcode/BinarySearch/74Search2DMatrix/bin/Debug/net8.0/74Search2DMatrix
+/home/martin/code/leetcode/BinarySearch/74Search2DMatrix/bin/Debug/net8.0/74Search2DMatrix.deps.json
+/home/martin/code/leetcode/BinarySearch/74Search2DMatrix/bin/Debug/net8.0/74Search2DMatrix.runtimeconfig.json
+/home/martin/code/leetcode/BinarySearch/74Search2DMatrix/bin/Debug/net8.0/74Search2DMatrix.dll
+/home/martin/code/leetcode/BinarySearch/74Search2DMatrix/bin/Debug/net8.0/74Search2DMatrix.pdb
+/home/martin/code/leetcode/BinarySearch/74Search2DMatrix/obj/Debug/net8.0/74Search2DMatrix.GeneratedMSBuildEditorConfig.editorconfig
+/home/martin/code/leetcode/BinarySearch/74Search2DMatrix/obj/Debug/net8.0/74Search2DMatrix.AssemblyInfoInputs.cache
+/home/martin/code/leetcode/BinarySearch/74Search2DMatrix/obj/Debug/net8.0/74Search2DMatrix.AssemblyInfo.cs
+/home/martin/code/leetcode/BinarySearch/74Search2DMatrix/obj/Debug/net8.0/74Search2DMatrix.csproj.CoreCompileInputs.cache
+/home/martin/code/leetcode/BinarySearch/74Search2DMatrix/obj/Debug/net8.0/74Search2DMatrix.dll
+/home/martin/code/leetcode/BinarySearch/74Search2DMatrix/obj/Debug/net8.0/refint/74Search2DMatrix.dll
+/home/martin/code/leetcode/BinarySearch/74Search2DMatrix/obj/Debug/net8.0/74Search2DMatrix.pdb
+/home/martin/code/leetcode/BinarySearch/74Search2DMatrix/obj/Debug/net8.0/74Search2DMatrix.genruntimeconfig.cache
+/home/martin/code/leetcode/BinarySearch/74Search2DMatrix/obj/Debug/net8.0/ref/74Search2DMatrix.dll
